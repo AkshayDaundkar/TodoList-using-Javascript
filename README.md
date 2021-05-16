@@ -1,1 +1,1 @@
-# todo list using vanilla javascript
+# Todo list using vanilla javascript
